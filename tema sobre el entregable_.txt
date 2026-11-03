@@ -1,0 +1,13 @@
+2 modelos de sklearn 
+1 rna convtensorflow 
+model.sumarry 
+comentarios explicar el codigo 
+no explicar todo solo partes importantes...
+_____sobre 20-----
+modelo h5 convertir a js el boton deve consumir eso que creaste con su boton 
+publicarn en reande o se va dar un despliegue 
+indicar lo que estas enviando  si publicas enviar el url 
+-----en el entregable-------
+propuesta tod propuesta tambien pegar todo los enlaces tambien el dominio si lo publicaste
+no poner elace de color blanco el enlace va en identifica propuestas de solucion y evidencias.
+
